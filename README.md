@@ -22,7 +22,7 @@ Click WA logo to Join Support Group 👇
 
 
 
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FsDjV2uRKce4wgMpAtYwyf)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/D3sgssOfJk2DPnChxHG3TY)
 
        
 
