@@ -1,82 +1,18 @@
-<div align="center">
-
-  <img border-radius: 15px src="Teddy-1080x1080.png" width="600" height="566"/>
-
-  <p align="center">
-
-<a href="#"><img title="Teddy" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-
-</p>
-
-  <p align="center">
-
-<a href="https://github.com/Teddybot121/Teddybot121"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
-
-</p>
-
-</div>
-
-<p align="center">
-
-Project created by <a href="https://github.com/Teddybot121/Teddybot121">anshab-demon</a> to make it public
-
-    <br>
-
-       | © |
-
-        Reserved |
-
-    <br> 
-
-</p>
-
-----
-
-  <p align="center">
-
-  <a href="https://github.com/Teddybot121/Teddybot121">
-
-    <img src="https://img.shields.io/github/repo-size/ameer-kallumthodi/pikachu?color=green&label=Repo%20total%20size&style=plastic">
-
-<p align="center">
-
-<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=f7df1e&style=flat-square"></a>
-
-<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumthodi/pikachu?color=f7df1e&style=flat-square"></a>
-
-<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kallumthodi/pikachu?color=f7df1e&style=flat-square"></a>
-
-<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ameer-kallumthodi/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
-
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
-
-</p>
-
-<h3 align="center">Contact Me:</h3>
-
-<p align="center">
-
-<a href="https://instagram.com/ameer_.su_hail?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
-
-</p>
-
-<h4 align="center">Support Video For Deploy Bot 👇:</h4>
-
-<p align="center">
-
-<a href="https://youtu.be/_D4ZYuUSXjs" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
-
-</p>
 
   
 
-<div align="center">
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameer-kallumthodi&show_icons=true&theme=nightowl" alt="ameer-kallumthodi" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameer-kallumthodi&theme=nightowl" alt="ameer-kallumthodi" /></p>
+" 
 
-</details> </div>
+  
+
+
+
+
+
+
+
 
 ## 📢 Guide
 
