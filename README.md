@@ -38,7 +38,7 @@ Click WA logo to Join Support Group 👇
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Teddybot121/Teddybot121.git)
 
      </div>
 
@@ -68,9 +68,9 @@ $ apt install nodejs --fix-missing
 
 $ pkg install git
 
-$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ git clone https://github.com/Teddybot121/Teddybot121
 
-$ cd pikachu
+$ cd teddy
 
 $ chmod +x *
 
@@ -88,9 +88,9 @@ $ node qr.js
 
 SETUP
 
-$ git clone https://github.com/ameer-kallumthodi/pikachu
+$ git clone https://github.com/Teddybot121/Teddybot121
 
-$ cd pikachu
+$ cd teddy
 
 $ chmod +x *
 
@@ -124,7 +124,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
     
 
-  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
+  [![anshab-demon](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
 
 ----|----|----
 
