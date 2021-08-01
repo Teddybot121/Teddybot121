@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img border-radius: 15px src="Pikachu-407x400.png" width="200" height="200"/>
+  <img border-radius: 15px src="Teddy-1080x1080.png" width="600" height="566"/>
 
   <p align="center">
 
