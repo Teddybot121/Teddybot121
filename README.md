@@ -124,11 +124,11 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
     
 
-  [![anshab-demon](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) |  [![Anshab-demon](https://github.com/Anshab-demon.png?size=100)](https://github.com/Teddybot121/Teddybot121) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
+  [![anshab-demon](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) |  [![Anshab-demon](https://github.com/anshabdemon.png?size=100)](https://github.com/Teddybot121/Teddybot121) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
 
 ----|----|----
 
-[ameer-kallumthodi](https://github.com/ameer-kallumthodi)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
+[ameer-kallumthodi](https://github.com/ameer-kallumthodi)  | [Anshab-Demon](https://github.com/Teddybot121) | [saidalisaid2](https://github.com/saidalisaid2)
 
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
 
