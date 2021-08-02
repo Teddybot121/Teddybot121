@@ -5,11 +5,11 @@
 <a href="#"><img title="Teddy" src="https://img.shields.io/badge/Teddy-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/teddybot121"><img title="Author" src="https://img.shields.io/badge/Author-anshab-demon/teddy?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/teddy121">demon</a> to make it public
+Project created by <a href="https://github.com/teddy121">teddy</a> to make it public
     <br>
        | © |
         Reserved |
