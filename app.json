@@ -8,7 +8,7 @@
 
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
 
-    "repository": "https://github.com/ameer-kallumthodi/pikachu",
+    "repository": "https://github.com/teddybot121/teddybot121",
 
     "website":   "https://t.me/phaticusthiccy",
 
@@ -224,7 +224,7 @@
 
             "required": false,
 
-            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```\n\n```pikachu🧚‍♂️```"
+            "value": "\n ```I Am Alive !!!```\n\n```Type``` *.help* ```for commands```\n\n```teddy```"
 
         },
 
