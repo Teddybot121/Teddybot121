@@ -22,9 +22,9 @@ Project created by <a href="https://github.com/teddybot121">anshab-demon</a> to 
   <a href="httsp://github.com/teddybot121/teddy">
     <img src="https://img.shields.io/github/repo-size/teddybot121/teddy?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumthodi/pikachu?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kallumthodi/pikachu?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/teddybot121/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/teddybot121/teddybot121/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/teddybot121/teddybot121?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/teddybot121/teddybot121/network/members"><img title="Forks" src="https://img.shields.io/github/forks/teddybot121/teddybot121?color=f7df1e&style=flat-square"></a>
 <a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ameer-kallumthodi/pikachu?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
