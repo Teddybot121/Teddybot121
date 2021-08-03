@@ -75,8 +75,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://teddybot121/teddybot121
+$ cd teddy
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -85,8 +85,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/teddybot121/teddybot121
+$ cd teddy
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -108,7 +108,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
     
   [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/teddybot121) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
 ----|----|----
-[ameer-kallumthodi](https://github.com/ameer-kallumthodi)  | [Hisham-Muhammed](https://github.com/teddybot121) | [saidalisaid2](https://github.com/saidalisaid2)
+[ameer-kallumthodi](https://github.com/ameer-kallumthodi)  | [Anshab-Demon](https://github.com/teddybot121) | [saidalisaid2](https://github.com/saidalisaid2)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
