@@ -20,8 +20,8 @@ Asena.addCommand({pattern: 'menu', fromMe: true, desc: Lang.WP}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━━━━✨️Anshab demon✨️━━━━━⛦
 
 
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Ameer Suhail 𝐛𝐨𝐭.
-            *Pikachu*
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Anshab demon 𝐛𝐨𝐭.
+            *Teddy*
 
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
